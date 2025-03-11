@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+    <slide>
+        <number>1 / 3</number>
+        <image>https://static1.detourista.com/wp/wp-content/uploads/Unorganized/Boracay-Spots-Featured.jpg</image>
+        <caption>Beautiful Boracay Beach</caption>
+    </slide>
+    <slide>
+        <number>2 / 3</number>
+        <image>https://boracaycompass.com/wp-content/uploads/2023/11/boracay-hotel-guide.jpg</image>
+        <caption>Boracay Resort</caption>
+    </slide>
+    <slide>
+        <number>3 / 3</number>
+        <image>https://d1k571r5p7i4n1.cloudfront.net/c.6973/large/boracay-travel-guide-here-s-your-perfect-three-day-itinerary-on-the-island.jpg</image>
+        <caption>Travel with family at Boracay</caption>
+    </slide>
+</slideshow>
